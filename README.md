@@ -10,10 +10,10 @@
  -Register on db Twilio confirmation code
 
 Config.xml File got values for 
-```API url
-```Twilio accountSid
-```Twilio Token
-```Twilio Number
+-API url
+-Twilio accountSid
+-Twilio Token
+-Twilio Number
 ```
 
 ##
