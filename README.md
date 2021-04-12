@@ -17,7 +17,7 @@
  ```
  Register on db Twilio confirmation code
 ```
-Config.xml File got values for connectionString Name
+Config.xml File got values for :
 ```
 API url
 ```
