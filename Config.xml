@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parametro>
+    <URL_RECEPCION>http://localhost:44367/api/Messages</URL_RECEPCION>
+    <URL_RECEPCION2>http://localhost:44367/api/SendingMessages</URL_RECEPCION2>  
+    <accountSid>ACd3f02bc656c04bb902a228285b7305d2</accountSid>
+    <authToken>310bdafa77c3fd6b90b23b7b7d313533</authToken>
+    <FromNumber>+18179683842</FromNumber>
+</Parametro>
